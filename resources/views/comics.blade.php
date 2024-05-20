@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-    <section id="comics">
+    <section class="hero">
+        <img src="{{Vite::asset('resources/img/jumbotron.jpg')}}" alt="">
     </section>
 @endsection

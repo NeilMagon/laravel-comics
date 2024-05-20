@@ -1,4 +1,6 @@
 @use './variables' as *;
-.navbar-nav .nav-link.ms-active{
-    color: $brand-primary;
+.nav-link{
+    &.ms-active{
+        color: $brand-primary;
+    }
 }
