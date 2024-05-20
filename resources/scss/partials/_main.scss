@@ -8,3 +8,19 @@
         object-position: top;
     }
 }
+.ms-bg{
+    background-color: $brand-secondary;
+}
+.img-container{
+    width: 170px;
+    height: 200px;
+    img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: top;
+    }
+}
+.text{
+    text-transform: uppercase;
+}
