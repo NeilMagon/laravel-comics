@@ -24,12 +24,3 @@
         </div>
     </section>
 @endsection
-
-{{-- <div class="row">
-    <div class="col d-flex align-items-center">
-        <div class="image">
-            <img src="{{ $comic ['thumb']}}" alt="{{ $comic ['title']}}">
-        </div>
-        <p class="text-white ps-2" href="#">{{ $comic ['title']}}</p>
-    </div>
-</div> --}}
